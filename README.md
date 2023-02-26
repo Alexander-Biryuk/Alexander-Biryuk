@@ -1,4 +1,4 @@
-[![header](https://github.com/Alexander-Biryuk/Alexander-Biryuk/blob/main/assets/header-2.png)]
+![header](/assets/header-2.png)
 
 
 
