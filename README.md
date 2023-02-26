@@ -1,9 +1,4 @@
-![header](https://github.com/Alexander-Biryuk/Alexander-Biryuk/blob/main/assets/My%20banner-11.png)
-
-## Frontend Developer
-
-## Skills
-### HTTP5, CSS3, SCSS, JavaScript (ES6), React, Redux, Git
+[![header](https://github.com/Alexander-Biryuk/Alexander-Biryuk/blob/main/assets/header-2.png)]
 
 
 
