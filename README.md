@@ -1,4 +1,12 @@
-### Hi there 👋
+# Alexander Biryuk
+
+## Frontend Developer
+
+## Skills
+### HTTP5, CSS3, SCSS, JavaScript (ES6), React, Redux, Git
+
+
+
 
 <!--
 **Alexander-Biryuk/Alexander-Biryuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
